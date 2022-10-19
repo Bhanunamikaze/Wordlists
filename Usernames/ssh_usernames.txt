@@ -1,3 +1,7 @@
+root
+guest
+nagios
+user
 Debian-exim
 adm
 admin
@@ -18,7 +22,6 @@ ftp
 games
 gdm
 gnats
-guest
 halt
 irc
 jkang
@@ -46,7 +49,6 @@ public
 qa
 qmail
 qmail4rep
-root
 rpc
 rwhod
 shutdown
@@ -63,7 +65,6 @@ test
 tester
 tivoli
 toor
-user
 uucp
 web
 webadmin
