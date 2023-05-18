@@ -1,0 +1,16 @@
+admin
+asteriskuser
+cloudera
+dbuser
+mcUser
+moves
+root
+web
+guest
+user
+webadmin
+netadmin
+sysadmin
+administrator
+test
+qa
